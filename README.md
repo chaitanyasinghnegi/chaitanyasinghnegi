@@ -1,3 +1,5 @@
+![gif](./assets/banner.gif)
+
 # 💫 About Me:
 🔭 I am currently working on Object Orientated Programming.<br>🌱I am currently learning Python, C++, Front end basics, competitive coding basics.<br>🗒️ I have a keen interest in Coding, Cinematography, Music Production.<br>🤝I am looking to collaborate on any project having implementation of Python or C++.<br>💬I am looking for help with Front-End stuff like websites - HTML/CSS or for Android/Cross Platform - Flutter.<br>⚡ Fun fact - ....<br><br><br>
 
