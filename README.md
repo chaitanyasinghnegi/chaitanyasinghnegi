@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/39a3cb82-3505-4414-988d-6c3e503015bd)[![](https://visitcount.itsvg.in/api?id=chaitanyasinghnegi&icon=0&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=chaitanyasinghnegi&icon=0&color=11)](https://visitcount.itsvg.in)
 
 ![hello](./assets/banner.gif)
 
